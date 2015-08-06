@@ -1,0 +1,5 @@
+
+//npm ini pour creer le fichier package
+//ajourer les dependencies dans le fichier package
+//npm install pour mettre a jours les dependencies depuis le net
+

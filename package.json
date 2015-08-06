@@ -1,0 +1,15 @@
+{
+  "name": "node_code_from_others",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "main.js",
+  "scripts": {
+    "test": "main test"
+  },
+  "dependencies": {
+    "colors":"latest",
+    "underscore":"latest"
+  },
+  "author": "nico",
+  "license": "ISC"
+}
