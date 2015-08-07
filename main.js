@@ -18,3 +18,6 @@ console.log("toto".red);
 console.log("toto".blue);
 console.log("toto".yellow);
 
+console.log(("SAlut stephane un petit arc en ciel?").rainbow);
+
+
