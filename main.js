@@ -17,11 +17,9 @@ var   colors = require("colors");
 console.log("toto".red);
 console.log("toto".blue);
 console.log("toto".yellow);
-
 console.log(("Salut Stéphane un petit arc en ciel?").rainbow);
-
+console.log("new to dev");
 console.log("Test add branch");
-
 console.log("Merci c'est gentil!!!");
-
 console.log("Et en HTML?".red);
+console.log(("Dernière modification pour ce soir").yellow);
