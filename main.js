@@ -20,4 +20,5 @@ console.log("toto".yellow);
 
 console.log(("SAlut stephane un petit arc en ciel?").rainbow);
 
+console.log("new to dev");
 
