@@ -20,6 +20,7 @@ console.log("toto".yellow);
 
 console.log(("Salut stephane un petit arc en ciel?").rainbow);
 
+console.log("new to dev");
 console.log("Test add branch");
 
 console.log("Merci c'est gentil!!!");
